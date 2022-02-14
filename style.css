@@ -743,6 +743,15 @@ body
     body{
        background: linear-gradient(to right, rgba(255,255,255,.5), #d9e6f2);
     }
+     
+     .container
+{
+    width: 40%;
+    height: 92vh;          
+    border-radius: 8px;
+    box-shadow: 13px 13px 20px #cbced1,
+               -13px -13px 20px #ffffff; 
+}
  
 
  
